@@ -1,0 +1,12 @@
+<html>
+	<head>
+		<title> Frames</title>
+	</head>
+
+	<body>	
+		<frameset cols="20%,* 80%,*">
+		<frame src="Contents.html" name="f1" marginwidth="20" marginheight="190"/>
+		<frameset rows="100%,*">
+		<frame src="g.html" name="f2"/>
+	</body>
+</html>
